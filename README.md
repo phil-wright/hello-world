@@ -10,4 +10,9 @@ Test repository to explore github.
 5. Merge to master.
 6. Delete a branch.
 
+7. Link with Travis CI.
+8. Show Travis build status.
+
 [![Build Status](https://travis-ci.org/phil-wright/hello-world.svg?branch=master)](https://travis-ci.org/phil-wright/hello-world)
+
+9. Use a Makefile, taking the compiler as a variable.
