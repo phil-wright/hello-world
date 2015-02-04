@@ -1,5 +1,9 @@
 language: cpp
+
 compiler:
   - gcc
   - clang
-script: $(CXX) main.cpp
+
+script:
+  - echo $CXX
+  - $CXX main.cpp
