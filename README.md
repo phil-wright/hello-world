@@ -10,4 +10,4 @@ Test repository to explore github.
 5. Merge to master.
 6. Delete a branch.
 
-[![Build Status](https://travis-ci.org/phil-wright/hello-world.png)](https://travis-ci.org/phil-wright/hello-world)
+[![Build Status](https://travis-ci.org/phil-wright/hello-world.svg?branch=master)](https://travis-ci.org/phil-wright/hello-world)
