@@ -9,3 +9,5 @@ Test repository to explore github.
 4. Issue a pull request.
 5. Merge to master.
 6. Delete a branch.
+
+[![Build Status](https://travis-ci.org/[phil-wright]/[hello-world].png)](https://travis-ci.org/[phil-wright]/[hello-world])
