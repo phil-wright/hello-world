@@ -7,3 +7,4 @@ compiler:
 script:
   - echo $CXX
   - $CXX main.cpp
+  - ./a.out
