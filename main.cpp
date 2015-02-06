@@ -1,6 +1,10 @@
 #include <iostream>
+#include <string>
 
 int main(void)
 {
-    std::cout << "Hello World!\n";
+    std::string name;
+    std::cout << "Enter your name: ";
+    std::cin >> name;
+    std::cout << "Hello " + name + "\n";
 }
