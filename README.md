@@ -1,7 +1,7 @@
-[![Build Status](https://travis-ci.org/phil-wright/hello-world.svg?branch=master)](https://travis-ci.org/phil-wright/hello-world)
-
 hello-world
 ===========
+
+[![Build Status](https://travis-ci.org/phil-wright/hello-world.svg?branch=master)](https://travis-ci.org/phil-wright/hello-world)
 
 Test repository to explore github.
 
